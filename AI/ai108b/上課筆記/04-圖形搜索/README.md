@@ -23,6 +23,8 @@ f(n)=g(n)+h(n)
 
 h(n)為評估函式，見的評估函式有——歐幾里得距離、曼哈頓距離、切比雪夫距離。
 
+[範例程式(自己寫的)](https://github.com/loliconkea/ai108b/blob/master/AI/ai108b/%E4%B8%8A%E8%AA%B2%E7%AD%86%E8%A8%98/04-%E5%9C%96%E5%BD%A2%E6%90%9C%E7%B4%A2/A*)
+
 ![apa](Astar_progress_animation.gif)
 
 ## 參考資料
