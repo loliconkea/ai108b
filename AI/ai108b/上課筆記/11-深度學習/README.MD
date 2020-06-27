@@ -1,41 +1,31 @@
-# VENV的安裝
-## Installing virtualenv
-```
-py -m pip install --user virtualenv
-```
-## 啟動venv
-```
-C:\Users\EASON\Desktop\class\AI\ai2\env> cd ..
-PS C:\Users\EASON\Desktop\class\AI\ai2> .\env\Scripts\activate
-(env) PS C:\Users\EASON\Desktop\class\AI\ai2>
-```
-## install pytorch
-```
-pip install torch
-```
-遇到報錯 ModuleNotFoundError: No module named 'tools.nnwrap'
-`解決方法 https://pytorch.org/get-started/locally/ 到官網選擇自己電腦的版本，複製指令即可`
-## 執行main.py
-```
-(env) PS C:\Users\EASON\Desktop\class\AI\ai2\python\11-deepLearning\01-pytorch\tutorial> python
-Python 3.8.2 (tags/v3.8.2:7b3ab59, Feb 25 2020, 23:03:10) [MSC v.1916 64 bit (AMD64)] on win32
-Type "help", "copyright", "credits" or "license" for more information.
->>>
->>> import torch
->>> import torchvision
->>> import torch.nn as nn
->>> import numpy as np
->>> import torchvision.transforms as transforms
->>> x = torch.tensor(1., requires_grad=True)
->>> w = torch.tensor(2., requires_grad=True)
->>> b = torch.tensor(3., requires_grad=True)
->>> y = w * x + b
->>> y.backward()
->>> print(x.grad) x的梯度
-tensor(2.)
->>> print(w.grad) w的梯度
-tensor(1.)
->>> print(b.grad) b的梯度
-tensor(1.)
->>> 
-```
+# 深度學習
+深度學習（英語：deep learning）是機器學習的分支，是一種以人工神經網路為架構，對資料進行表徵學習的演算法。
+
+# 神經網路
+
+## CNN(卷積神經網路)
+
+卷積神經網路由一個或多個卷積層和頂端的全連通層（對應經典的神經網路）組成，同時也包括關聯權重和池化層（pooling layer）。
+這一結構使得卷積神經網路能夠利用輸入資料的二維結構。與其他深度學習結構相比，卷積神經網路在圖像和語音辨識方面能夠給出更好的結果。
+這一模型也可以使用反向傳播演算法進行訓練。相比較其他深度、前饋神經網路，卷積神經網路需要考量的參數更少，使之成為一種頗具吸引力的深度學習結構。
+
+### CNN 應用
+
+影像辨識
+卷積神經網路通常在影像辨識系統中使用。
+
+視訊分析
+相比影像辨識問題，視訊分析要難許多。CNN也常被用於這類問題。
+
+自然語言處理
+卷積神經網路也常被用於自然語言處理。 CNN的模型被證明可以有效的處理各種自然語言處理的問題，如語意分析[8]、搜尋結果提取[9]、句子建模[10] 、分類[11]、預測[12]、和其他傳統的NLP任務[13] 等。
+
+藥物發現
+卷積神經網路已在藥物發現中使用。卷積神經網路被用來預測的分子與蛋白質之間的相互作用，以此來尋找靶向位點，尋找出更可能安全和有效的潛在治療方法。
+
+圍棋
+卷積神經網路在電腦圍棋領域也被使用。2016年3月，AlphaGo對戰李世乭的比賽，展示了深度學習在圍棋領域的重大突破。
+
+## 參考資料
+[深度學習](https://zh.wikipedia.org/wiki/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0#%E6%B7%B1%E5%BA%A6%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C)  \
+[CNN](https://zh.wikipedia.org/wiki/%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C)
