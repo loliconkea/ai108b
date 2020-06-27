@@ -23,7 +23,9 @@ f(n)=g(n)+h(n)
 
 h(n)為評估函式，見的評估函式有——歐幾里得距離、曼哈頓距離、切比雪夫距離。
 
+![apa](Astar_progress_animation.gif)
 
 ## 參考資料
-[深度優先搜尋法](http://simonsays-tw.com/web/DFS-BFS/DepthFirstSearch.html) \
-[廣度優先搜尋法](http://simonsays-tw.com/web/DFS-BFS/BreadthFirstSearch.html)
+[深度優先搜尋法](http://simonsays-tw.com/web/DFS-BFS/DepthFirstSearch.html)  \
+[廣度優先搜尋法](http://simonsays-tw.com/web/DFS-BFS/BreadthFirstSearch.html)  \
+[A*搜尋演算法](https://zh.wikipedia.org/wiki/A*%E6%90%9C%E5%B0%8B%E6%BC%94%E7%AE%97%E6%B3%95)
