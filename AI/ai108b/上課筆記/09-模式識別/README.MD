@@ -4,6 +4,6 @@
 
 　　模式識別是指對錶徵事物或現象的各種形式的（數值的、文字的和邏輯關係的）信息進行處理和分析，以對事物或現象進行描述、辨認、分類和解釋的過程，是信息科學和人工智慧的重要組成部
 ## K-means 
-以下內容參照自[機器學習: 集群分析 K-means Clustering](https://medium.com/@chih.sheng.huang821/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-%E9%9B%86%E7%BE%A4%E5%88%86%E6%9E%90-k-means-clustering-e608a7fe1b43) \
+以下內容參照自[機器學習: 集群分析 K-means Clustering](https://medium.com/@chih.sheng.huang821/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-%E9%9B%86%E7%BE%A4%E5%88%86%E6%9E%90-k-means-clustering-e608a7fe1b43) 
 
 K-means是非監督式學習。主要做的功能是分群。
