@@ -6,16 +6,16 @@
 
 ## 機算套件
 
-numpy -- 數值陣列  /
-https://numpy.org/  /
-scipy -- 科學計算  /
-https://www.scipy.org/  /
-Sympy -- 符號運算  /
-https://www.sympy.org/  /
-matplotlib -- 繪圖套件  /
-https://matplotlib.org/  /
-Panda -- 資料分析  /
-https://pandas.pydata.org/  /
+numpy -- 數值陣列  \
+https://numpy.org/  \
+scipy -- 科學計算  \
+https://www.scipy.org/  \
+Sympy -- 符號運算  \
+https://www.sympy.org/  \
+matplotlib -- 繪圖套件  \
+https://matplotlib.org/  \
+Panda -- 資料分析  \
+https://pandas.pydata.org/  \
 
 ## 參考資料
 [維基百科](https://zh.wikipedia.org/wiki/%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B)  \
