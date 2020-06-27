@@ -20,5 +20,5 @@
 ## 參考資料
 [AI來襲！三分鐘看懂人工智慧](https://makerpro.cc/2019/05/introduction-to-ai/)<br>
 
-[人工智慧到底在幹嘛？](https://www.bnext.com.tw/article/42632/what-is-ai)
+[人工智慧到底在幹嘛？](https://www.bnext.com.tw/article/42632/what-is-ai)<br>
 [人工智慧原理與意義](http://163.28.10.78/content/senior/computer/ks_ks/et/ai/chap1/index.htm)
