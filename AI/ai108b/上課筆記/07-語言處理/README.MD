@@ -1,8 +1,10 @@
 # 自然語言
-## 自然語言與程式語言的差別
-![LA](1.jpg) [圖片取自](https://research.sinica.edu.tw/nlp-natural-language-processing-chinese-knowledge-information/)
-## 自然語言的用途
-![LA2](2.jpg) [圖片取自](https://research.sinica.edu.tw/nlp-natural-language-processing-chinese-knowledge-information/)
+## 自然語言
+通常是指一種自然地隨文化演化的語言。英語、中文、法語、西班牙語、葡萄牙文、日語、韓語、義大利文、德文為自然語言的例子，而世界語則為人工語言，即是一種由人特意為某些特定目的而創造的語言。
 
-### 作業說明
-[習題：請寫一個可以產生文章或語句的程式](https://github.com/yolo310250/ai108b/blob/master/order/order.py)
+## 人造語言
+人造語言的種類很多，但大部分都是程式類的語言，像是高階語言 (像是 C、Ruby、Python)、組合語言 (像是 x86、ARM、CPU0 的組合語言)、還有高階語言在翻譯成組合語言之前通常會經過某種中介語言等等，以下是一些人造語言的範例。
+
+## 參考資料
+
+[上課網站](https://misavo.com/blog/%E9%99%B3%E9%8D%BE%E8%AA%A0/%E6%9B%B8%E7%B1%8D/%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7/07-%E8%AA%9E%E8%A8%80%E8%99%95%E7%90%86)
